@@ -10,7 +10,7 @@ Welcome to the Book Store Web App, a simple full-stack application designed for 
 
  #Getting Started
 
- To get started with the Book Store CRUD Web App, follow these steps:
+ To get started with the Book Store Web App, follow these steps:
  1. Clone the Repository:
   
  2. Installation:
